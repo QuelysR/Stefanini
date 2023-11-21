@@ -1,0 +1,43 @@
+{
+  "keywordFileContentHash": "971455205822A9AD5DAF3256207AB43D",
+  "keywordClasses": [
+    {
+      "name": "pkgGeneral.kwdUtilities",
+      "keywordMethods": [
+        {
+          "name": "fLogin",
+          "parameters": [
+            {
+              "name": "vUser",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.Object",
+                "unresolvedClassName": "java.lang.Object",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "vPswd",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.Object",
+                "unresolvedClassName": "java.lang.Object",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/************************************************\r\n\t * LOGIN\t\t\t\t\t\t\t\t\t\t*\r\n\t * Login a l sitio\t\t\t\t\t\t\t\t*\r\n\t * Parametros:\t\t\t\t\t\t\t\t\t*\r\n\t * - Usuario\t\t\t\t\t\t\t\t\t*\r\n\t * - Password\t\t\t\t\t\t\t\t\t*\r\n\t ************************************************/"
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>tprod</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://cadastro-de-usuarios.s3.us-east-1.amazonaws.com/index.html'</initValue>
+      <name>vURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Test One'</initValue>
+      <name>vUser</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'test1@test.com'</initValue>
+      <name>vEmail</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'12345678'</initValue>
+      <name>vPswd</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Test'</initValue>
+      <name>vUserInv</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'saf432'</initValue>
+      <name>vPswdInv</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'test@t.c'</initValue>
+      <name>vEmailInv</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Por favor, insira um nome completo.'</initValue>
+      <name>textNameInv</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Por favor, insira um e-mail válido.'</initValue>
+      <name>textEmailInv</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'A senha deve conter ao menos 8 caracteres.'</initValue>
+      <name>textPswd</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
